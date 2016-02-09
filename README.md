@@ -1,2 +1,2 @@
 # posted
-Postedアプリ用リポジトリ
+Postedアプリケーション用リポジトリ
