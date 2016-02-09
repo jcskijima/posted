@@ -1,0 +1,2 @@
+# posted
+Postedアプリ用リポジトリ
